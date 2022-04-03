@@ -1,0 +1,14 @@
+C:\Users\Caner\source\repos\so-signalr\server\bin\Debug\netcoreapp2.2\server.deps.json
+C:\Users\Caner\source\repos\so-signalr\server\bin\Debug\netcoreapp2.2\server.runtimeconfig.json
+C:\Users\Caner\source\repos\so-signalr\server\bin\Debug\netcoreapp2.2\server.runtimeconfig.dev.json
+C:\Users\Caner\source\repos\so-signalr\server\bin\Debug\netcoreapp2.2\server.dll
+C:\Users\Caner\source\repos\so-signalr\server\bin\Debug\netcoreapp2.2\server.pdb
+C:\Users\Caner\source\repos\so-signalr\server\obj\Debug\netcoreapp2.2\server.csprojAssemblyReference.cache
+C:\Users\Caner\source\repos\so-signalr\server\obj\Debug\netcoreapp2.2\server.csproj.CoreCompileInputs.cache
+C:\Users\Caner\source\repos\so-signalr\server\obj\Debug\netcoreapp2.2\server.RazorAssemblyInfo.cache
+C:\Users\Caner\source\repos\so-signalr\server\obj\Debug\netcoreapp2.2\server.RazorAssemblyInfo.cs
+C:\Users\Caner\source\repos\so-signalr\server\obj\Debug\netcoreapp2.2\server.AssemblyInfoInputs.cache
+C:\Users\Caner\source\repos\so-signalr\server\obj\Debug\netcoreapp2.2\server.AssemblyInfo.cs
+C:\Users\Caner\source\repos\so-signalr\server\obj\Debug\netcoreapp2.2\server.RazorTargetAssemblyInfo.cache
+C:\Users\Caner\source\repos\so-signalr\server\obj\Debug\netcoreapp2.2\server.dll
+C:\Users\Caner\source\repos\so-signalr\server\obj\Debug\netcoreapp2.2\server.pdb
